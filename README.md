@@ -55,10 +55,10 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Is Apple Silicon ready?](https://isapplesiliconready.com/) - The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor.
 
 #### Awesome macOS Repo on GitHub
-- [agarrharr/awesome-macos-screensavers ![GitHub Repo stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers)
-- [iCHAIT/awesome-macOS ![GitHub Repo stars](https://img.shields.io/github/stars/iCHAIT/awesome-macOS)](https://github.com/iCHAIT/awesome-macOS)
-- [jaywcjlove/awesome-mac ![GitHub Repo stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac)](https://github.com/jaywcjlove/awesome-mac)
-- [serhii-londar/open-source-mac-os-apps ![GitHub Repo stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps)](https://github.com/serhii-londar/open-source-mac-os-apps)
+- [![Awesome List][awesome-list Icon] agarrharr/awesome-macos-screensavers ![GitHub Repo stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers)
+- [![Awesome List][awesome-list Icon] iCHAIT/awesome-macOS ![GitHub Repo stars](https://img.shields.io/github/stars/iCHAIT/awesome-macOS)](https://github.com/iCHAIT/awesome-macOS)
+- [![Awesome List][awesome-list Icon] jaywcjlove/awesome-mac ![GitHub Repo stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac)](https://github.com/jaywcjlove/awesome-mac)
+- [![Awesome List][awesome-list Icon] serhii-londar/open-source-mac-os-apps ![GitHub Repo stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps)](https://github.com/serhii-londar/open-source-mac-os-apps)
 
 <p align="right"><a href="#readme"><b>↥ To the top</b></a></p>
 
