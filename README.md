@@ -11,6 +11,7 @@ A curated list of 😎 awesome applications, softwares, tools and shiny things f
 
 #### Developers
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality. [![Open-Source Software][OSS Icon]](https://imageoptim.com/mac)
+- [iTerm2](https://iterm2.com/) - A terminal emulator for Mac OS X that does amazing things. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2)
 
 #### Editors
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS, elevate your code editing experience. Open source, free forever. [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit)
@@ -23,8 +24,10 @@ A curated list of 😎 awesome applications, softwares, tools and shiny things f
 - [Android File Transfer](https://www.android.com/filetransfer/) - Browse and transfer files between your Mac computer and your Android device. [![Freeware][Freeware Icon]](https://www.android.com/filetransfer/)
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - A small application which allows you to thoroughly uninstall unwanted apps. [![Freeware][Freeware Icon]](https://freemacsoft.net/appcleaner/)
 - [Blackmagic Disk Speed Test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) - Disk Speed Test is an easy to use tool to quickly measure and certify your disk performance for working with high quality video! [![Freeware][Freeware Icon]](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12)
+- [Dropover](https://dropoverapp.com/) - Effortless Drag & Drop on your Mac. [![Freeware][Freeware Icon]](https://dropoverapp.com/)
 - [Hand Mirror](https://handmirror.app/) - A one-click camera check, right from the menu bar. [![Open-Source Software][OSS Icon]](https://handmirror.app/)
 - [Keka](https://www.keka.io/en/) - The macOS file archiver Store more, share with privacy. [![Freeware][Freeware Icon]](https://www.keka.io/en/)
+- [KeyboardCleanTool](https://folivora.ai/keyboardcleantool) - A super simple little tool which blocks all Keyboard and TouchBar input. [![Freeware][Freeware Icon]](https://folivora.ai/keyboardcleantool)
 - [LinearMouse](https://linearmouse.app/) - The mouse and trackpad utility for Mac. [![Freeware][Freeware Icon]](https://github.com/linearmouse/linearmouse)
 - [Maccy](https://maccy.app/) - Lightweight clipboard manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy)
 - [Maintenance](https://www.titanium-software.fr/en/maintenance.html) - Maintenance is an operating system maintenance and cleaning utility for macOS that you can use to perform miscellaneous tasks of computer maintenance: run periodic scripts; rebuild the databases; delete application, font, and system caches; and more. [![Freeware][Freeware Icon]](https://www.titanium-software.fr/en/maintenance.html)
