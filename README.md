@@ -20,7 +20,8 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Tor Browser](https://www.torproject.org/download/) - Defend yourself against tracking and surveillance. Circumvent censorship. [![Open-Source Software][OSS Icon]](https://www.torproject.org/download/)
 
 #### Developers
-- [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality. [![Open-Source Software][OSS Icon]](https://imageoptim.com/mac)
+- [GIMP](https://www.gimp.org/) - An acronym for GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gimp)
+- [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim)
 
 #### Editors
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS, elevate your code editing experience. Open source, free forever. [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit)
@@ -31,6 +32,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 
 #### Package Manager
 - [Homebrew](https://brew.sh/) - The Missing Package Manager for macOS (or Linux). [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew)
+- [MacPorts](https://www.macports.org/) - An open-source community initiative to design an easy-to-use system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software. [![Open-Source Software][OSS Icon]](https://www.macports.org/)
 
 #### Remote Desktop
 - [AnyDesk](https://anydesk.com/en/downloads/mac-os) - The secure & intuitive remote desktop software, and take advantage of the application's innovative features. [![Freeware][Freeware Icon]](https://anydesk.com/en/downloads/mac-os)
@@ -56,6 +58,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [SelfControl](https://selfcontrolapp.com/) - Mac app to block your own access to distracting websites etc. for a predetermined period of time. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol)
 - [Tempbox](https://tempbox.waseem.works/) - Instant disposable emails for Mac powered by _Mail.tm_. [![Open-Source Software][OSS Icon]](https://github.com/devwaseem/TempBox)
 - [The Unarchiver](https://macpaw.com/the-unarchiver) - Unpack any archive, in no time. [![Freeware][Freeware Icon]](https://macpaw.com/the-unarchiver)
+- [Transmission](https://transmissionbt.com/) - Transmission is a fast, easy, and free BitTorrent client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission)
 
 #### Wallpaper
 - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) - Every major version of macOS has come with a new default wallpaper. [![Freeware][Freeware Icon]](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
