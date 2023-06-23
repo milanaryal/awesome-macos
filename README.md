@@ -41,6 +41,11 @@ A curated list of 😎 awesome applications, softwares, tools and shiny things f
 - [Tempbox](https://tempbox.waseem.works/) - Instant disposable emails for Mac powered by _Mail.tm_. [![Open-Source Software][OSS Icon]](https://github.com/devwaseem/TempBox)
 - [The Unarchiver](https://macpaw.com/the-unarchiver) - Unpack any archive, in no time. [![Freeware][Freeware Icon]](https://macpaw.com/the-unarchiver)
 
+#### Wallpaper
+- [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) - Every major version of macOS has come with a new default wallpaper. [![Freeware][Freeware Icon]](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
+- [Dynamic Wallpaper Club](https://dynamicwallpaper.club/gallery) - A service to create and a platform to share Dynamic Wallpapers for Mac. [![Freeware][Freeware Icon]](https://dynamicwallpaper.club/gallery)
+- [Mac Sierra Wallpapers](https://wallpaperaccess.com/mac-sierra) - A collection of the top 39 Mac Sierra wallpapers and backgrounds available for download for free. [![Freeware][Freeware Icon]](https://wallpaperaccess.com/mac-sierra)
+
 #### Others
 - [Is Apple Silicon ready?](https://isapplesiliconready.com/) - The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor.
 
