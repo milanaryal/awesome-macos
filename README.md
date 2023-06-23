@@ -1,7 +1,12 @@
 # awesome-macos
-A curated list of 😎 awesome applications, softwares, tools and shiny things for  macOS.
+A curated list of 😎 awesome applications, softwares and tools for  macOS.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;\
+![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
+![App Store][app-store Icon] means **App store** hyperlink;\
+![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
 
 #### Command Line Tools
 - [Unar and Lsar](https://theunarchiver.com/command-line) - The Unarchiver is a macOS app, but the underlying unarchiving code can run on other OSes, too. There is not yet any GUI app for any other OS, but there are two command-line tools, unar and lsar, which can be used on macOS, Windows and Linux. [![Freeware][Freeware Icon]](https://theunarchiver.com/command-line)
@@ -24,10 +29,10 @@ A curated list of 😎 awesome applications, softwares, tools and shiny things f
 - [Android File Transfer](https://www.android.com/filetransfer/) - Browse and transfer files between your Mac computer and your Android device. [![Freeware][Freeware Icon]](https://www.android.com/filetransfer/)
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - A small application which allows you to thoroughly uninstall unwanted apps. [![Freeware][Freeware Icon]](https://freemacsoft.net/appcleaner/)
 - [App Eraser](https://github.com/davunt/app-eraser) - Removes unwanted macOS applications and any related files that they leave behind. [![Open-Source Software][OSS Icon]](https://github.com/davunt/app-eraser)
-- [Blackmagic Disk Speed Test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) - Disk Speed Test is an easy to use tool to quickly measure and certify your disk performance for working with high quality video! [![Freeware][Freeware Icon]](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12)
+- [Blackmagic Disk Speed Test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) - Disk Speed Test is an easy to use tool to quickly measure and certify your disk performance for working with high quality video! [![Freeware][Freeware Icon] ![App Store][app-store Icon]](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12)
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - The app you are looking for to power up Dark Mode on macOS Mojave and beyond. [![Open-Source Software][OSS Icon]](https://github.com/ApolloZhu/Dynamic-Dark-Mode)
 - [Dropover](https://dropoverapp.com/) - Effortless Drag & Drop on your Mac. [![Freeware][Freeware Icon]](https://dropoverapp.com/)
-- [Hand Mirror](https://handmirror.app/) - A one-click camera check, right from the menu bar. [![Open-Source Software][OSS Icon]](https://handmirror.app/)
+- [Hand Mirror](https://handmirror.app/) - A one-click camera check, right from the menu bar. [![Freeware][Freeware Icon] ![App Store][app-store Icon]](https://apps.apple.com/us/app/hand-mirror/id1502839586?mt=12)
 - [Keka](https://www.keka.io/en/) - The macOS file archiver Store more, share with privacy. [![Freeware][Freeware Icon]](https://www.keka.io/en/)
 - [KeyboardCleanTool](https://folivora.ai/keyboardcleantool) - A super simple little tool which blocks all Keyboard and TouchBar input. [![Freeware][Freeware Icon]](https://folivora.ai/keyboardcleantool)
 - [LinearMouse](https://linearmouse.app/) - The mouse and trackpad utility for Mac. [![Freeware][Freeware Icon]](https://github.com/linearmouse/linearmouse)
@@ -50,10 +55,14 @@ A curated list of 😎 awesome applications, softwares, tools and shiny things f
 - [Is Apple Silicon ready?](https://isapplesiliconready.com/) - The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor.
 
 #### Awesome macOS Repo on GitHub
+- [agarrharr/awesome-macos-screensavers ![GitHub Repo stars](https://img.shields.io/github/stars/agarrharr/awesome-macos-screensavers)](https://github.com/agarrharr/awesome-macos-screensavers)
 - [iCHAIT/awesome-macOS ![GitHub Repo stars](https://img.shields.io/github/stars/iCHAIT/awesome-macOS)](https://github.com/iCHAIT/awesome-macOS)
 - [jaywcjlove/awesome-mac ![GitHub Repo stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac)](https://github.com/jaywcjlove/awesome-mac)
 - [serhii-londar/open-source-mac-os-apps ![GitHub Repo stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps)](https://github.com/serhii-londar/open-source-mac-os-apps)
 
-[chitchat]: https://github.com/stonesam92/ChitChat
-[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
-[Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
+<p align="right"><a href="#readme"><b>↥ To the top</b></a></p>
+
+[OSS Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-oss.svg "Open Source Software"
+[Freeware Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-free.svg "Freeware"
+[app-store Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-app-store.svg "App Store Software"
+[awesome-list Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-awesome.svg "Awesome List"
