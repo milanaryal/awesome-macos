@@ -9,21 +9,32 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 ![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
 
 #### Command Line Tools
+- [iTerm2](https://iterm2.com/) - A terminal emulator for Mac OS X that does amazing things. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2)
 - [Unar and Lsar](https://theunarchiver.com/command-line) - The Unarchiver is a macOS app, but the underlying unarchiving code can run on other OSes, too. There is not yet any GUI app for any other OS, but there are two command-line tools, unar and lsar, which can be used on macOS, Windows and Linux. [![Freeware][Freeware Icon]](https://theunarchiver.com/command-line)
 
 #### Browsers
+- [Firefox](https://www.mozilla.org/en-US/firefox/mac/) - Faster page loading, less memory usage and packed with features, the new Firefox for Mac. [![Open-Source Software][OSS Icon]](https://www.mozilla.org/en-US/firefox/mac/)
+- [Google Chrome](https://www.google.com/chrome/) - A more simple, secure, and faster web browser than ever, with Google’s smarts built-in. [![Open-Source Software][OSS Icon]](https://www.google.com/chrome/)
+- [Microsoft Edge](https://www.microsoft.com/en-us/edge/download/) - A fast and secure browser with world class performance, built-in privacy, and more. [![Open-Source Software][OSS Icon]](https://www.microsoft.com/en-us/edge/download/)
 - [Orion Browser by Kagi](https://browser.kagi.com/) - Lightweight, natively built with WebKit, made for you and your Mac. Industry-leading battery life, privacy respecting by design and native support for web extensions. [![Freeware][Freeware Icon]](https://www.omnigroup.com/more)
+- [Tor Browser](https://www.torproject.org/download/) - Defend yourself against tracking and surveillance. Circumvent censorship. [![Open-Source Software][OSS Icon]](https://www.torproject.org/download/)
 
 #### Developers
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality. [![Open-Source Software][OSS Icon]](https://imageoptim.com/mac)
-- [iTerm2](https://iterm2.com/) - A terminal emulator for Mac OS X that does amazing things. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2)
 
 #### Editors
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS, elevate your code editing experience. Open source, free forever. [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit)
 - [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode/)
 
+#### Media Player
+- [IINA](https://iina.io/) - The modern media player for macOS. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina)
+
 #### Package Manager
 - [Homebrew](https://brew.sh/) - The Missing Package Manager for macOS (or Linux). [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew)
+
+#### Remote Desktop
+- [AnyDesk](https://anydesk.com/en/downloads/mac-os) - The secure & intuitive remote desktop software, and take advantage of the application's innovative features. [![Freeware][Freeware Icon]](https://anydesk.com/en/downloads/mac-os)
+- [RustDesk](https://rustdesk.com/) - A remote desktop software, the open source TeamViewer alternative, works out of the box, no configuration required. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk)
 
 #### Utilities
 - [Android File Transfer](https://www.android.com/filetransfer/) - Browse and transfer files between your Mac computer and your Android device. [![Freeware][Freeware Icon]](https://www.android.com/filetransfer/)
@@ -59,6 +70,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [![Awesome List][awesome-list Icon] iCHAIT/awesome-macOS ![GitHub Repo stars](https://img.shields.io/github/stars/iCHAIT/awesome-macOS)](https://github.com/iCHAIT/awesome-macOS)
 - [![Awesome List][awesome-list Icon] jaywcjlove/awesome-mac ![GitHub Repo stars](https://img.shields.io/github/stars/jaywcjlove/awesome-mac)](https://github.com/jaywcjlove/awesome-mac)
 - [![Awesome List][awesome-list Icon] serhii-londar/open-source-mac-os-apps ![GitHub Repo stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps)](https://github.com/serhii-londar/open-source-mac-os-apps)
+- [![Awesome List][awesome-list Icon] phmullins/awesome-macos ![GitHub Repo stars](https://img.shields.io/github/stars/phmullins/awesome-macos)](https://github.com/phmullins/awesome-macos)
 
 <p align="right"><a href="#readme"><b>↥ To the top</b></a></p>
 
