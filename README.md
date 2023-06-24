@@ -66,6 +66,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) - Every major version of macOS has come with a new default wallpaper. [![Freeware][Freeware Icon]](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 - [Dynamic Wallpaper Club](https://dynamicwallpaper.club/gallery) - A service to create and a platform to share Dynamic Wallpapers for Mac. [![Freeware][Freeware Icon]](https://dynamicwallpaper.club/gallery)
 - [Mac Sierra Wallpapers](https://wallpaperaccess.com/mac-sierra) - A collection of the top 39 Mac Sierra wallpapers and backgrounds available for download for free. [![Freeware][Freeware Icon]](https://wallpaperaccess.com/mac-sierra)
+- [Grayscale of Mountain](https://unsplash.com/photos/GjpUV4k76F8) - Taken from 5083m behind Dingboche, Nepal.
 
 #### Others
 - [Is Apple Silicon ready?](https://isapplesiliconready.com/) - The complete guide for MacOS Apps Optimized for Apple Silicon Macs and the M1 Processor.
