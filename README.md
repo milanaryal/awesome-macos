@@ -10,7 +10,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 ![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
 
 #### Command Line Tools
-- [iTerm2](https://iterm2.com/) - A terminal emulator for Mac OS X that does amazing things. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2)
+- [iTerm2](https://iterm2.com/) - A terminal emulator for macOS that does amazing things. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2)
 - [Unar](https://theunarchiver.com/command-line) - The Unarchiver, command-line unarchiving tools supporting multiple formats. [![Freeware][Freeware Icon]](https://theunarchiver.com/command-line) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/unar)
 
 #### Browsers
