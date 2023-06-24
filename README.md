@@ -6,11 +6,12 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 ![Open-Source Software][OSS Icon] means **open source**, click to open **open source** repo;\
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
 ![App Store][app-store Icon] means **App store** hyperlink;\
+![Homebrew][Homebrew Icon] means **Homebrew Formulae** hyperlink;\
 ![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
 
 #### Command Line Tools
 - [iTerm2](https://iterm2.com/) - A terminal emulator for Mac OS X that does amazing things. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2)
-- [Unar and Lsar](https://theunarchiver.com/command-line) - The Unarchiver is a macOS app, but the underlying unarchiving code can run on other OSes, too. There is not yet any GUI app for any other OS, but there are two command-line tools, unar and lsar, which can be used on macOS, Windows and Linux. [![Freeware][Freeware Icon]](https://theunarchiver.com/command-line)
+- [Unar](https://theunarchiver.com/command-line) - The Unarchiver, command-line unarchiving tools supporting multiple formats. [![Freeware][Freeware Icon]](https://theunarchiver.com/command-line) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/unar)
 
 #### Browsers
 - [Firefox](https://www.mozilla.org/en-US/firefox/mac/) - Faster page loading, less memory usage and packed with features, the new Firefox for Mac. [![Open-Source Software][OSS Icon]](https://www.mozilla.org/en-US/firefox/mac/)
@@ -29,6 +30,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 
 #### Media Player
 - [IINA](https://iina.io/) - The modern media player for macOS. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina)
+- [VLC Media Player](https://www.videolan.org/vlc/) - A free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/)
 
 #### Package Manager
 - [Homebrew](https://brew.sh/) - The Missing Package Manager for macOS (or Linux). [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew)
@@ -81,3 +83,4 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 [Freeware Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-free.svg "Freeware"
 [app-store Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-app-store.svg "App Store Software"
 [awesome-list Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-awesome.svg "Awesome List"
+[Homebrew Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-brew.svg "Homebrew"
