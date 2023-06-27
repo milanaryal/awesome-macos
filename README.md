@@ -11,7 +11,10 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 
 #### Command Line Tools
 - [iTerm2](https://iterm2.com/) - A terminal emulator for macOS that does amazing things. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2)
+- [tldr-pages](https://tldr.sh/) - A collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional [man pages](https://en.wikipedia.org/wiki/Man_page). [![Open-Source Software][OSS Icon]](https://github.com/tldr-pages/tldr) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/tldr)
 - [Unar](https://theunarchiver.com/command-line) - The Unarchiver, command-line unarchiving tools supporting multiple formats. [![Freeware][Freeware Icon]](https://theunarchiver.com/command-line) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/unar)
+- [youtubedr](https://github.com/kkdai/youtube) - CLI to download YouTube videos in Golang. [![Open-Source Software][OSS Icon]](https://github.com/kkdai/youtube) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/youtubedr)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites. [![Open-Source Software][OSS Icon]](https://github.com/yt-dlp/yt-dlp) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/yt-dlp)
 
 #### Browsers
 - [Firefox](https://www.mozilla.org/en-US/firefox/mac/) - Faster page loading, less memory usage and packed with features, the new Firefox for Mac. [![Open-Source Software][OSS Icon]](https://www.mozilla.org/en-US/firefox/mac/)
