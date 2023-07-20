@@ -28,6 +28,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 #### Developers
 - [GIMP](https://www.gimp.org/) - An acronym for GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gimp)
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim)
+- [Krita](https://krita.org/en/) - Free and open-source painting and sketching program. [![Open-Source Software][OSS Icon]](https://krita.org/en/)
 
 #### Editors
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS, elevate your code editing experience. Open source, free forever. [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit)
