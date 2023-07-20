@@ -12,6 +12,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 #### Command Line Tools
 - [FFmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video. [![Freeware][Freeware Icon]](https://ffmpeg.org/) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/ffmpeg)
 - [iTerm2](https://iterm2.com/) - A terminal emulator for macOS that does amazing things. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/cask/iterm2)
+- [m-cli](https://github.com/rgcr/m-cli#how-to-use) - Lets you interact with utilities and applications entirely in Terminal. [![Freeware][Freeware Icon]](https://github.com/rgcr/m-cli) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/m-cli)
 - [tldr-pages](https://tldr.sh/) - A collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional [man pages](https://en.wikipedia.org/wiki/Man_page). [![Open-Source Software][OSS Icon]](https://github.com/tldr-pages/tldr) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/tldr)
 - [Unar](https://theunarchiver.com/command-line) - The Unarchiver, command-line unarchiving tools supporting multiple formats. [![Freeware][Freeware Icon]](https://theunarchiver.com/command-line) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/unar)
 - [Xcode](https://developer.apple.com/xcode/) - Apple Xcode includes command-line tools which enable UNIX-style development via the Terminal app in macOS. [![Freeware][Freeware Icon]](https://developer.apple.com/xcode/resources/)
@@ -32,7 +33,8 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Krita](https://krita.org/en/) - Free and open-source painting and sketching program. [![Open-Source Software][OSS Icon]](https://krita.org/en/)
 
 #### Editors
-- [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS, elevate your code editing experience. Open source, free forever. [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit)
+- [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS, elevate your code editing experience. Open source, free forever. [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit) [![App Store][app-store Icon]](https://apps.apple.com/app/coteditor/id1024640650?ls=1)
+- [CotEditor](https://coteditor.com/) - Lightweight Plain-Text Editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor)
 - [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode/)
 - [Zed](https://zed.dev/) - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. [![Open-Source Software][OSS Icon]](https://zed.dev/)
 
@@ -56,6 +58,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - The app you are looking for to power up Dark Mode on macOS Mojave and beyond. [![Open-Source Software][OSS Icon]](https://github.com/ApolloZhu/Dynamic-Dark-Mode)
 - [Dropover](https://dropoverapp.com/) - Effortless Drag & Drop on your Mac. [![Freeware][Freeware Icon]](https://dropoverapp.com/)
 - [Hand Mirror](https://handmirror.app/) - A one-click camera check, right from the menu bar. [![Freeware][Freeware Icon] ![App Store][app-store Icon]](https://apps.apple.com/us/app/hand-mirror/id1502839586?mt=12)
+- [KeepingYouAwake](https://keepingyouawake.app/) - Prevents your Mac from going to sleep. [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake)
 - [Keka](https://www.keka.io/en/) - The macOS file archiver Store more, share with privacy. [![Freeware][Freeware Icon]](https://www.keka.io/en/)
 - [KeyboardCleanTool](https://folivora.ai/keyboardcleantool) - A super simple little tool which blocks all Keyboard and TouchBar input. [![Freeware][Freeware Icon]](https://folivora.ai/keyboardcleantool)
 - [LinearMouse](https://linearmouse.app/) - The mouse and trackpad utility for Mac. [![Freeware][Freeware Icon]](https://github.com/linearmouse/linearmouse)
