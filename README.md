@@ -89,7 +89,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [![Awesome List][awesome-list Icon] serhii-londar/open-source-mac-os-apps ![GitHub Repo stars](https://img.shields.io/github/stars/serhii-londar/open-source-mac-os-apps)](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [![Awesome List][awesome-list Icon] phmullins/awesome-macos ![GitHub Repo stars](https://img.shields.io/github/stars/phmullins/awesome-macos)](https://github.com/phmullins/awesome-macos)
 
-<p align="right"><a href="#readme"><b>↥ To the top</b></a></p>
+<p align="right"><a href="#awesome-macos"><b>↥ To the top</b></a></p>
 
 [OSS Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-oss.svg "Open Source Software"
 [Freeware Icon]: https://raw.githubusercontent.com/MilanAryal/awesome-macos/main/svg/min-free.svg "Freeware"
