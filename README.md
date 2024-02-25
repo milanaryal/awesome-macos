@@ -20,6 +20,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line program to download videos from YouTube.com and other video sites. [![Open-Source Software][OSS Icon]](https://github.com/yt-dlp/yt-dlp) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/yt-dlp)
 
 #### Browsers
+- [Arc](https://arc.net/) - An innovative web browser developed by The Browser Company. It’s designed to enhance your browsing experience with features that adapt to your needs and preferences. [![Freeware][Freeware Icon]](https://arc.net/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/mac/) - Faster page loading, less memory usage and packed with features, the new Firefox for Mac. [![Open-Source Software][OSS Icon]](https://www.mozilla.org/en-US/firefox/mac/)
 - [Google Chrome](https://www.google.com/chrome/) - A more simple, secure, and faster web browser than ever, with Google’s smarts built-in. [![Open-Source Software][OSS Icon]](https://www.google.com/chrome/)
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge/download/) - A fast and secure browser with world class performance, built-in privacy, and more. [![Open-Source Software][OSS Icon]](https://www.microsoft.com/en-us/edge/download/)
