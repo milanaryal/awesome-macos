@@ -71,6 +71,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS using keyboard shortcuts or snap areas. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle)
 - [SelfControl](https://selfcontrolapp.com/) - Mac app to block your own access to distracting websites etc. for a predetermined period of time. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol)
 - [Tempbox](https://tempbox.waseem.works/) - Instant disposable emails for Mac powered by _Mail.tm_. [![Open-Source Software][OSS Icon]](https://github.com/devwaseem/TempBox)
+- [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.
 - [The Unarchiver](https://macpaw.com/the-unarchiver) - Unpack any archive, in no time. [![Freeware][Freeware Icon]](https://macpaw.com/the-unarchiver)
 - [Transmission](https://transmissionbt.com/) - Transmission is a fast, easy, and free BitTorrent client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission)
 
