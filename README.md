@@ -11,7 +11,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 
 #### Command Line Tools
 - [batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks. [![Open-Source Software][OSS Icon]](https://github.com/charlie0129/batt) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/batt)
-- [FFmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video. [![Freeware][Freeware Icon]] (https://ffmpeg.org/) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/ffmpeg)
+- [FFmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video. [![Freeware][Freeware Icon]](https://ffmpeg.org/) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/ffmpeg)
 - [iTerm2](https://iterm2.com/) - A terminal emulator for macOS that does amazing things. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/cask/iterm2)
 - [m-cli](https://github.com/rgcr/m-cli#how-to-use) - Lets you interact with utilities and applications entirely in Terminal. [![Freeware][Freeware Icon]](https://github.com/rgcr/m-cli) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/m-cli)
 - [tldr-pages](https://tldr.sh/) - A collection of community-maintained help pages for command-line tools, that aims to be a simpler, more approachable complement to traditional [man pages](https://en.wikipedia.org/wiki/Man_page). [![Open-Source Software][OSS Icon]](https://github.com/tldr-pages/tldr) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/tldr)
