@@ -45,6 +45,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 
 #### Media Player
 - [IINA](https://iina.io/) - The modern media player for macOS. [![Open-Source Software][OSS Icon]](https://github.com/iina/iina)
+- [QuickTunes](https://furnacecreek.org/quicktunes/) - A native Apple Music player inspired by the simplicity of the iPod.
 - [VLC Media Player](https://www.videolan.org/vlc/) - A free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols. [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/)
 
 #### Package Manager
