@@ -26,9 +26,11 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Brave Browser](https://brave.com/) - Web browser focusing on privacy. [![Open-Source Software][OSS Icon]](https://github.com/brave/brave-browser)
 - [Firefox](https://www.mozilla.org/en-US/firefox/mac/) - Faster page loading, less memory usage and packed with features, the new Firefox for Mac. [![Open-Source Software][OSS Icon]](https://www.mozilla.org/en-US/firefox/mac/)
 - [Google Chrome](https://www.google.com/chrome/) - A more simple, secure, and faster web browser than ever, with Google’s smarts built-in. [![Open-Source Software][OSS Icon]](https://www.google.com/chrome/)
+- [Helium](https://helium.computer/) - The Chromium-based web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise. [![Open-Source Software][OSS Icon]](https://github.com/imputnet/helium)
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge/download/) - A fast and secure browser with world class performance, built-in privacy, and more. [![Open-Source Software][OSS Icon]](https://www.microsoft.com/en-us/edge/download/)
 - [Orion Browser by Kagi](https://browser.kagi.com/) - Lightweight, natively built with WebKit, made for you and your Mac. Industry-leading battery life, privacy respecting by design and native support for web extensions. [![Freeware][Freeware Icon]](https://www.omnigroup.com/more)
 - [Tor Browser](https://www.torproject.org/download/) - Defend yourself against tracking and surveillance. Circumvent censorship. [![Open-Source Software][OSS Icon]](https://www.torproject.org/download/)
+- [Zen Browser](https://zen-browser.app/) - Zen is a firefox-based browser with the aim of pushing your productivity to a new level! [![Open-Source Software][OSS Icon]](https://github.com/zen-browser/desktop)
 
 #### Developers
 - [GIMP](https://www.gimp.org/) - An acronym for GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gimp)
