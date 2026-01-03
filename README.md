@@ -33,6 +33,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Zen Browser](https://zen-browser.app/) - Zen is a firefox-based browser with the aim of pushing your productivity to a new level! [![Open-Source Software][OSS Icon]](https://github.com/zen-browser/desktop)
 
 #### Developers
+- [Affinity](https://www.affinity.studio/) - All the design and photo editing tools you need in one app–for free. [![Freeware][Freeware Icon]](https://www.affinity.studio/)
 - [GIMP](https://www.gimp.org/) - An acronym for GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/gimp)
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim)
 - [Inkscape](https://inkscape.org/) - Vector graphics editor. [![Open-Source Software][OSS Icon]](https://inkscape.org/)
