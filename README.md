@@ -71,6 +71,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - The app you are looking for to power up Dark Mode on macOS Mojave and beyond. [![Open-Source Software][OSS Icon]](https://github.com/ApolloZhu/Dynamic-Dark-Mode)
 - [Dropover](https://dropoverapp.com/) - Effortless Drag & Drop on your Mac. [![Freeware][Freeware Icon]](https://dropoverapp.com/)
 - [Hand Mirror](https://handmirror.app/) - A one-click camera check, right from the menu bar. [![Freeware][Freeware Icon] ![App Store][app-store Icon]](https://apps.apple.com/us/app/hand-mirror/id1502839586?mt=12)
+- [HeyRobyn](https://heyrobyn.ai) - Native macOS unified inbox for email, Slack, and GitHub. Built with SwiftUI, privacy-first with all data on-device. [![Freeware][Freeware Icon]](https://heyrobyn.ai)
 - [KeepingYouAwake](https://keepingyouawake.app/) - Prevents your Mac from going to sleep. [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake)
 - [Keka](https://www.keka.io/en/) - The macOS file archiver Store more, share with privacy. [![Freeware][Freeware Icon]](https://www.keka.io/en/)
 - [KeyboardCleanTool](https://folivora.ai/keyboardcleantool) - A super simple little tool which blocks all Keyboard and TouchBar input. [![Freeware][Freeware Icon]](https://folivora.ai/keyboardcleantool)
