@@ -92,6 +92,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.
 - [The Unarchiver](https://macpaw.com/the-unarchiver) - Unpack any archive, in no time. [![Freeware][Freeware Icon]](https://macpaw.com/the-unarchiver)
 - [Transmission](https://transmissionbt.com/) - Transmission is a fast, easy, and free BitTorrent client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission)
+- [Typer](https://typer.space) - Free local AI chat for macOS. Runs entirely on-device — no account, no cloud, no ads. Works offline. Apple Silicon required. [![Freeware][Freeware Icon]](https://typer.space) [![App Store][app-store Icon]](https://apps.apple.com/app/typer-ai/id6751274483)
 
 #### Wallpaper
 - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) - Every major version of macOS has come with a new default wallpaper. [![Freeware][Freeware Icon]](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
