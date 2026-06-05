@@ -70,6 +70,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [DockDoor](https://dockdoor.net/) - Effortless Alt+Tab switching and dock previews that respect your privacy. [![Open-Source Software][OSS Icon]](https://github.com/ejbills/DockDoor)
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - The app you are looking for to power up Dark Mode on macOS Mojave and beyond. [![Open-Source Software][OSS Icon]](https://github.com/ApolloZhu/Dynamic-Dark-Mode)
 - [Dropover](https://dropoverapp.com/) - Effortless Drag & Drop on your Mac. [![Freeware][Freeware Icon]](https://dropoverapp.com/)
+- [Dusty](https://github.com/yagcioglutoprak/dusty) - Menu bar cleaner that frees disk space from safe macOS caches, logs, and developer artifacts. [![Open-Source Software][OSS Icon]](https://github.com/yagcioglutoprak/dusty)
 - [Hand Mirror](https://handmirror.app/) - A one-click camera check, right from the menu bar. [![Freeware][Freeware Icon] ![App Store][app-store Icon]](https://apps.apple.com/us/app/hand-mirror/id1502839586?mt=12)
 - [KeepingYouAwake](https://keepingyouawake.app/) - Prevents your Mac from going to sleep. [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake)
 - [Keka](https://www.keka.io/en/) - The macOS file archiver Store more, share with privacy. [![Freeware][Freeware Icon]](https://www.keka.io/en/)
