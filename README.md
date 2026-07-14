@@ -92,6 +92,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.
 - [The Unarchiver](https://macpaw.com/the-unarchiver) - Unpack any archive, in no time. [![Freeware][Freeware Icon]](https://macpaw.com/the-unarchiver)
 - [Transmission](https://transmissionbt.com/) - Transmission is a fast, easy, and free BitTorrent client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission)
+- [usage](https://github.com/aqua5230/usage) - macOS menu bar app for Claude Code, Codex, and Antigravity quota tracking. [![Open-Source Software][OSS Icon]](https://github.com/aqua5230/usage)
 
 #### Wallpaper
 - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) - Every major version of macOS has come with a new default wallpaper. [![Freeware][Freeware Icon]](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
