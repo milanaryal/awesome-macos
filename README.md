@@ -77,6 +77,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Latest](https://github.com/mangerlahn/latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. [![Open-Source Software][OSS Icon]](https://github.com/mangerlahn/latest)
 - [LinearMouse](https://linearmouse.app/) - The mouse and trackpad utility for Mac. [![Freeware][Freeware Icon]](https://github.com/linearmouse/linearmouse)
 - [LocalSend](https://localsend.org/) - Open-source cross-platform alternative to AirDrop. [![Freeware][Freeware Icon]](https://github.com/localsend/localsend)
+- [Mac Excel Shortcuts](https://maccove.com) - Replicates familiar Excel keyboard shortcuts for Windows migrators on macOS.
 - [Maccy](https://maccy.app/) - Lightweight clipboard manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy)
 - [Maintenance](https://www.titanium-software.fr/en/maintenance.html) - Maintenance is an operating system maintenance and cleaning utility for macOS that you can use to perform miscellaneous tasks of computer maintenance: run periodic scripts; rebuild the databases; delete application, font, and system caches; and more. [![Freeware][Freeware Icon]](https://www.titanium-software.fr/en/maintenance.html)
 - [MOS](https://mos.caldis.me/) - A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on MacOS [![Open-Source Software][OSS Icon]](https://mos.caldis.me/)
