@@ -88,6 +88,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [SelfControl](https://selfcontrolapp.com/) - Mac app to block your own access to distracting websites etc. for a predetermined period of time. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol)
 - [SlimHUD](https://alexperathoner.github.io/SlimHUD/) - Replacement for MacOS’ HUDs. [![Open-Source Software][OSS Icon]](https://alexperathoner.github.io/SlimHUD/)
 - [Tempbox](https://tempbox.waseem.works/) - Instant disposable emails for Mac powered by _Mail.tm_. [![Open-Source Software][OSS Icon]](https://github.com/devwaseem/TempBox)
+- [TetherShot](https://tethershot.apoorvdarshan.com/) - Native macOS menu bar utility for capturing the actual iPhone display over USB or Wi-Fi and saving pixel-perfect PNGs locally. [![Open-Source Software][OSS Icon]](https://github.com/apoorvdarshan/TetherShot)
 - [Transnomino ](https://www.transnomino.com/) - A batch rename utility for the Mac [![Open-Source Software][OSS Icon]](https://www.transnomino.com/)
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.
 - [The Unarchiver](https://macpaw.com/the-unarchiver) - Unpack any archive, in no time. [![Freeware][Freeware Icon]](https://macpaw.com/the-unarchiver)
