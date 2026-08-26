@@ -91,6 +91,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Transnomino ](https://www.transnomino.com/) - A batch rename utility for the Mac [![Open-Source Software][OSS Icon]](https://www.transnomino.com/)
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.
 - [The Unarchiver](https://macpaw.com/the-unarchiver) - Unpack any archive, in no time. [![Freeware][Freeware Icon]](https://macpaw.com/the-unarchiver)
+- [Tracexy](https://rockxy.io/tracexy) - Native, local-first network intelligence for investigating live traffic and PCAP or PCAPNG captures as app-aware sessions. [![Open-Source Software][OSS Icon]](https://github.com/RockxyApp/Tracexy) [![Freeware][Freeware Icon]](https://rockxy.io/tracexy)
 - [Transmission](https://transmissionbt.com/) - Transmission is a fast, easy, and free BitTorrent client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission)
 
 #### Wallpaper
