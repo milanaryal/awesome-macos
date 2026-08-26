@@ -38,6 +38,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim)
 - [Inkscape](https://inkscape.org/) - Vector graphics editor. [![Open-Source Software][OSS Icon]](https://inkscape.org/)
 - [Krita](https://krita.org/en/) - Free and open-source painting and sketching program. [![Open-Source Software][OSS Icon]](https://krita.org/en/)
+- [Rockxy](https://rockxy.io/) - Native HTTP debugging proxy for intercepting HTTPS, inspecting APIs, mocking responses, and debugging WebSocket and GraphQL traffic. [![Open-Source Software][OSS Icon]](https://github.com/RockxyApp/Rockxy) [![Freeware][Freeware Icon]](https://rockxy.io/)
 - [seashore](https://github.com/robaho/seashore) - easy to use mac osx image editing application for the rest of us [![Open-Source Software][OSS Icon]](https://github.com/robaho/seashore)
 
 #### Editors
