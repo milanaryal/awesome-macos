@@ -38,7 +38,9 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [ImageOptim](https://imageoptim.com/mac) - Removes bloated metadata. Saves disk space & bandwidth by compressing images without losing quality. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim)
 - [Inkscape](https://inkscape.org/) - Vector graphics editor. [![Open-Source Software][OSS Icon]](https://inkscape.org/)
 - [Krita](https://krita.org/en/) - Free and open-source painting and sketching program. [![Open-Source Software][OSS Icon]](https://krita.org/en/)
+- [Pixpresso](https://getapps.cafe/app/pixpresso) - Lightweight image viewer and editor for the everyday jobs that do not need Photoshop: crop, straighten, annotate, resize, and export to PNG, JPG, WebP or HEIC. [![Freeware][Freeware Icon]](https://getapps.cafe/app/pixpresso)
 - [seashore](https://github.com/robaho/seashore) - easy to use mac osx image editing application for the rest of us [![Open-Source Software][OSS Icon]](https://github.com/robaho/seashore)
+- [TinyImage](https://getapps.cafe/app/tinyimage) - Shrink PNG, JPEG and WebP files without losing visible quality. Drop in a single file or a whole folder and every image is re-encoded on your own machine, leaving the originals untouched. [![Freeware][Freeware Icon]](https://getapps.cafe/app/tinyimage)
 
 #### Editors
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS, elevate your code editing experience. Open source, free forever. [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit) [![App Store][app-store Icon]](https://apps.apple.com/app/coteditor/id1024640650?ls=1)
@@ -70,6 +72,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [DockDoor](https://dockdoor.net/) - Effortless Alt+Tab switching and dock previews that respect your privacy. [![Open-Source Software][OSS Icon]](https://github.com/ejbills/DockDoor)
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - The app you are looking for to power up Dark Mode on macOS Mojave and beyond. [![Open-Source Software][OSS Icon]](https://github.com/ApolloZhu/Dynamic-Dark-Mode)
 - [Dropover](https://dropoverapp.com/) - Effortless Drag & Drop on your Mac. [![Freeware][Freeware Icon]](https://dropoverapp.com/)
+- [FileShipper](https://getapps.cafe/app/fileshipper) - Send files between your computers and phones over local Wi-Fi with an AirDrop-style radar. Phones join by scanning a QR code, so there is no cloud and nothing to install on the phone. [![Freeware][Freeware Icon]](https://getapps.cafe/app/fileshipper)
 - [Hand Mirror](https://handmirror.app/) - A one-click camera check, right from the menu bar. [![Freeware][Freeware Icon] ![App Store][app-store Icon]](https://apps.apple.com/us/app/hand-mirror/id1502839586?mt=12)
 - [KeepingYouAwake](https://keepingyouawake.app/) - Prevents your Mac from going to sleep. [![Open-Source Software][OSS Icon]](https://github.com/newmarcel/KeepingYouAwake)
 - [Keka](https://www.keka.io/en/) - The macOS file archiver Store more, share with privacy. [![Freeware][Freeware Icon]](https://www.keka.io/en/)
@@ -92,6 +95,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.
 - [The Unarchiver](https://macpaw.com/the-unarchiver) - Unpack any archive, in no time. [![Freeware][Freeware Icon]](https://macpaw.com/the-unarchiver)
 - [Transmission](https://transmissionbt.com/) - Transmission is a fast, easy, and free BitTorrent client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission)
+- [TorrentMilk](https://getapps.cafe/app/torrentmilk) - A streaming torrent client with a poster-wall library. Drop in a magnet and start watching the moment the first bytes land, instead of waiting for the download to finish. [![Freeware][Freeware Icon]](https://getapps.cafe/app/torrentmilk)
 
 #### Wallpaper
 - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) - Every major version of macOS has come with a new default wallpaper. [![Freeware][Freeware Icon]](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
