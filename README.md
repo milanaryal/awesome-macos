@@ -39,6 +39,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Inkscape](https://inkscape.org/) - Vector graphics editor. [![Open-Source Software][OSS Icon]](https://inkscape.org/)
 - [Krita](https://krita.org/en/) - Free and open-source painting and sketching program. [![Open-Source Software][OSS Icon]](https://krita.org/en/)
 - [seashore](https://github.com/robaho/seashore) - easy to use mac osx image editing application for the rest of us [![Open-Source Software][OSS Icon]](https://github.com/robaho/seashore)
+- [Superagent](https://github.com/pungme/superagent-desktop) - Gives coding agents like Claude Code and Codex a real browser, an iOS Simulator, and a phone companion app to act through. [![Open-Source Software][OSS Icon]](https://github.com/pungme/superagent-desktop)
 
 #### Editors
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS, elevate your code editing experience. Open source, free forever. [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit) [![App Store][app-store Icon]](https://apps.apple.com/app/coteditor/id1024640650?ls=1)
