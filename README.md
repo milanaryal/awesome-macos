@@ -87,6 +87,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS using keyboard shortcuts or snap areas. [![Open-Source Software][OSS Icon]](https://github.com/rxhanson/Rectangle)
 - [SelfControl](https://selfcontrolapp.com/) - Mac app to block your own access to distracting websites etc. for a predetermined period of time. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol)
 - [SlimHUD](https://alexperathoner.github.io/SlimHUD/) - Replacement for MacOS’ HUDs. [![Open-Source Software][OSS Icon]](https://alexperathoner.github.io/SlimHUD/)
+- [SpreadPaper](https://spreadpaper.app) - Spread one wallpaper across multiple monitors, with bezel compensation. [![Open-Source Software][OSS Icon]](https://github.com/spreadpaper/SpreadPaper) [![Freeware][Freeware Icon]](https://spreadpaper.app)
 - [Tempbox](https://tempbox.waseem.works/) - Instant disposable emails for Mac powered by _Mail.tm_. [![Open-Source Software][OSS Icon]](https://github.com/devwaseem/TempBox)
 - [Transnomino ](https://www.transnomino.com/) - A batch rename utility for the Mac [![Open-Source Software][OSS Icon]](https://www.transnomino.com/)
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.
