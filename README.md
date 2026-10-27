@@ -10,6 +10,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 ![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
 
 #### Command Line Tools
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local x402 payment runtime and stdio MCP tools for AI agents; Apple Silicon macOS and Node 24 only. [![Open-Source Software][OSS Icon]](https://github.com/nuanu-ai/agent-payment-node)
 - [batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks. [![Open-Source Software][OSS Icon]](https://github.com/charlie0129/batt) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/batt)
 - [FFmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video. [![Freeware][Freeware Icon]](https://ffmpeg.org/) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/formula/ffmpeg)
 - [iTerm2](https://iterm2.com/) - A terminal emulator for macOS that does amazing things. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) [![Homebrew][Homebrew Icon]](https://formulae.brew.sh/cask/iterm2)
