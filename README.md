@@ -67,6 +67,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Blackmagic Disk Speed Test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) - Disk Speed Test is an easy to use tool to quickly measure and certify your disk performance for working with high quality video! [![Freeware][Freeware Icon] ![App Store][app-store Icon]](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12)
 - [Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS [![Open-Source Software][OSS Icon]](https://github.com/pakerwreah/Calendr)
 - [ChatGPT on your desktop](https://openai.com/chatgpt/desktop/) - OpenAI's official ChatGPT desktop app. [![Freeware][Freeware Icon]](https://openai.com/chatgpt/desktop/)
+- [Command Reopen](https://commandreopen.com/) - Makes Cmd+Tab restore minimized and closed windows with zero permissions. [![Open-Source Software][OSS Icon]](https://github.com/Feng6611/mac-command-reopen)
 - [DockDoor](https://dockdoor.net/) - Effortless Alt+Tab switching and dock previews that respect your privacy. [![Open-Source Software][OSS Icon]](https://github.com/ejbills/DockDoor)
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - The app you are looking for to power up Dark Mode on macOS Mojave and beyond. [![Open-Source Software][OSS Icon]](https://github.com/ApolloZhu/Dynamic-Dark-Mode)
 - [Dropover](https://dropoverapp.com/) - Effortless Drag & Drop on your Mac. [![Freeware][Freeware Icon]](https://dropoverapp.com/)
