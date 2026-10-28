@@ -75,6 +75,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Keka](https://www.keka.io/en/) - The macOS file archiver Store more, share with privacy. [![Freeware][Freeware Icon]](https://www.keka.io/en/)
 - [KeyboardCleanTool](https://folivora.ai/keyboardcleantool) - A super simple little tool which blocks all Keyboard and TouchBar input. [![Freeware][Freeware Icon]](https://folivora.ai/keyboardcleantool)
 - [Latest](https://github.com/mangerlahn/latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. [![Open-Source Software][OSS Icon]](https://github.com/mangerlahn/latest)
+- [Linkit](https://github.com/blue-idea/linkit) - Local-first bookmark manager with AI summaries, semantic search, and optional self-hosted sync. [![Freeware][Freeware Icon]](https://github.com/blue-idea/linkit)
 - [LinearMouse](https://linearmouse.app/) - The mouse and trackpad utility for Mac. [![Freeware][Freeware Icon]](https://github.com/linearmouse/linearmouse)
 - [LocalSend](https://localsend.org/) - Open-source cross-platform alternative to AirDrop. [![Freeware][Freeware Icon]](https://github.com/localsend/localsend)
 - [Maccy](https://maccy.app/) - Lightweight clipboard manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy)
