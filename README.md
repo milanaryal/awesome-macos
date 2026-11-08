@@ -41,6 +41,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [seashore](https://github.com/robaho/seashore) - easy to use mac osx image editing application for the rest of us [![Open-Source Software][OSS Icon]](https://github.com/robaho/seashore)
 
 #### Editors
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Rime)
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS, elevate your code editing experience. Open source, free forever. [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit) [![App Store][app-store Icon]](https://apps.apple.com/app/coteditor/id1024640650?ls=1)
 - [CotEditor](https://coteditor.com/) - Lightweight Plain-Text Editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor)
 - [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications. [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode/)
@@ -59,6 +60,8 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [RustDesk](https://rustdesk.com/) - A remote desktop software, the open source TeamViewer alternative, works out of the box, no configuration required. [![Open-Source Software][OSS Icon]](https://github.com/rustdesk/rustdesk)
 
 #### Utilities
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native menu bar productivity HUD with calendar, timer, and notes. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Cockpit)
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native stock ticker living in the unused corner space beside the Dock. [![Open-Source Software][OSS Icon]](https://github.com/Yvsleyen00941/Tape)
 - [AltTab](https://alt-tab-macos.netlify.app/) - AltTab brings the power of Windows alt-tab to macOS. [![Open-Source Software][OSS Icon]](https://github.com/lwouis/alt-tab-macos)
 - [Android File Transfer](https://www.android.com/filetransfer/) - Browse and transfer files between your Mac computer and your Android device. [![Freeware][Freeware Icon]](https://www.android.com/filetransfer/)
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - A small application which allows you to thoroughly uninstall unwanted apps. [![Freeware][Freeware Icon]](https://freemacsoft.net/appcleaner/)
