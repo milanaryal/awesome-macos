@@ -67,6 +67,7 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [Blackmagic Disk Speed Test](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12) - Disk Speed Test is an easy to use tool to quickly measure and certify your disk performance for working with high quality video! [![Freeware][Freeware Icon] ![App Store][app-store Icon]](https://apps.apple.com/us/app/blackmagic-disk-speed-test/id425264550?mt=12)
 - [Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS [![Open-Source Software][OSS Icon]](https://github.com/pakerwreah/Calendr)
 - [ChatGPT on your desktop](https://openai.com/chatgpt/desktop/) - OpenAI's official ChatGPT desktop app. [![Freeware][Freeware Icon]](https://openai.com/chatgpt/desktop/)
+- [Cue](https://heycue.io) - Desktop AI assistant for voice typing, meeting transcription, and supported agent tasks using context you provide. [![Freeware][Freeware Icon]](https://heycue.io)
 - [DockDoor](https://dockdoor.net/) - Effortless Alt+Tab switching and dock previews that respect your privacy. [![Open-Source Software][OSS Icon]](https://github.com/ejbills/DockDoor)
 - [Dynamic Dark Mode](https://github.com/ApolloZhu/Dynamic-Dark-Mode) - The app you are looking for to power up Dark Mode on macOS Mojave and beyond. [![Open-Source Software][OSS Icon]](https://github.com/ApolloZhu/Dynamic-Dark-Mode)
 - [Dropover](https://dropoverapp.com/) - Effortless Drag & Drop on your Mac. [![Freeware][Freeware Icon]](https://dropoverapp.com/)
@@ -92,6 +93,9 @@ A curated list of 😎 awesome applications, softwares and tools for  macOS.
 - [TinkerTool](https://www.bresink.com/osx/TinkerTool.html) - TinkerTool is an application that gives you access to additional preference settings Apple has built into macOS.
 - [The Unarchiver](https://macpaw.com/the-unarchiver) - Unpack any archive, in no time. [![Freeware][Freeware Icon]](https://macpaw.com/the-unarchiver)
 - [Transmission](https://transmissionbt.com/) - Transmission is a fast, easy, and free BitTorrent client. [![Open-Source Software][OSS Icon]](https://github.com/transmission/transmission)
+
+#### Productivity
+- [Cue Office](https://heycue.io/office) - All-in-one office suite combining Docs, Sheets, Slides, and PDF, with Microsoft Office compatibility and built-in AI tools. [![Freeware][Freeware Icon]](https://heycue.io/office)
 
 #### Wallpaper
 - [Every Default macOS Wallpaper](https://512pixels.net/projects/default-mac-wallpapers-in-5k/) - Every major version of macOS has come with a new default wallpaper. [![Freeware][Freeware Icon]](https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
